@@ -1,9 +1,5 @@
 # Connect GCP Compute Engine VM to Any IDE
 
-<p align="center">
-  <img src="assets/banner-dark-green.png" alt="Connect GCP Compute Engine VM to Any IDE" width="100%" />
-</p>
-
 [![Status](https://img.shields.io/badge/Project-Active-success)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-blue)]()
 [![Cloud](https://img.shields.io/badge/Cloud-Google%20Cloud-important)]()
@@ -222,6 +218,14 @@ Contributions are welcome! Feel free to submit PRs for:
 - Dev Containers configuration
 - Documentation improvements
 - Bug fixes
+
+---
+
+## Visual Assets (Optional)
+
+Future updates may include diagrams and screenshots.
+
+Contributions welcome.
 
 ---
 
